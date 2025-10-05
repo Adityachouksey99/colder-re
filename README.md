@@ -1,2 +1,3 @@
-# colder-re
-this is demo  Git repo.
+# colder-repo
+this is demo  Git repository.
+Author - Aditya chouksey.
